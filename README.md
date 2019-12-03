@@ -1,5 +1,7 @@
 # vue-api-calls-in-a-smart-way
 
+[Vue API calls in a smart way](https://medium.com/canariasjs/vue-api-calls-in-a-smart-way-8d521812c322)
+
 ## Project setup
 ```
 yarn install
